@@ -1,4 +1,4 @@
-# <span class="ͼ5m"> 🎁 Sorteio do Amigo Secreto</span>
+# 🎁 Sorteio do Amigo Secreto</span>
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 ## DESCRIÇÃO DO PROJETO
@@ -19,8 +19,7 @@
  
  [![Veja o Sorteio!](![amigo-secreto](https://github.com/user-attachments/assets/f6af9fef-b367-415f-b153-aafc7744aa85))](https://github.com/user-attachments/assets/2d5db485-b5d5-4c6a-91cb-8bad4febd633)
 
- ## Autores
-| [<img loading="lazy" src="(https://github.com/user-attachments/assets/3e76160e-fa25-4b12-8abc-6812a13ec5e3)
-" width=115><br><sub>Joyce Rodrigues</sub>](https://github.com/Joyce784)
-| :---: | 
+ ## 👥 Autor  
+
+[![Joyce Rodrigues](![Uploading WhatsApp Image 2025-02-05 at 17.55.42.jpeg…]())](https://github.com/Joyce784/Jogo-amigo-secreto)
 
