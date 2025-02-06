@@ -9,7 +9,8 @@
   No qual você adicionará o nome dos amigos que deseja para 
   realizar o sorteio do amigo secreto.
 
- ![jogo do amigo secreto](https://github.com/user-attachments/assets/933b2373-9977-451d-861b-cd1efe5b7ebf)
+![amigo-secreto](https://github.com/user-attachments/assets/7d700208-9723-416f-9405-7a32cd36d169)
+
 
 > :construction: Projeto em construção :construction:
 
