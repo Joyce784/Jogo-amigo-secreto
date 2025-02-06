@@ -1,5 +1,6 @@
-# 🎁 Sorteio do Amigo Secreto</span>
-![Badge em Desenvolvimento](![amigo-secreto](https://github.com/user-attachments/assets/1e9d6fd7-0e77-4a58-84ec-61c4c2c053e9))
+# 🎁 Sorteio do Amigo Secreto
+
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 
 ## DESCRIÇÃO DO PROJETO
