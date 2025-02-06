@@ -26,9 +26,9 @@
 - CSS
   
  ## 👥 Autor  
- **Joyce Rodrigues**
- - GitHub: (https://github.com/Joyce784)
- ![foto3x4](https://github.com/user-attachments/assets/6bd4b0da-7f28-488b-baac-8cb92d1428bb)
+ 
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/179622527?s=400&u=8b675804deebb351465bebcd9e0a1d7be13f4dd0&v=4" width=115><br><sub>Joyce Rodrigues</sub>](https://github.com/Joyce784)
+ 
 
 
 
