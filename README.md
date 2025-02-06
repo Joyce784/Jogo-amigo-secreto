@@ -1,4 +1,4 @@
-# 🎁 Sorteio do Amigo Secreto
+# <span class="ͼ5m"> 🎁 Sorteio do Amigo Secreto</span>
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 ## DESCRIÇÃO DO PROJETO
@@ -10,7 +10,7 @@
 
 > :construction: Projeto em construção :construction:
 
-## 🔨  :hammer: Funcionalidades do projeto
+## Funcionalidades do projeto
 
 - `Funcionalidade 1`: No campo em branco digite os nomes dos seus amigos que irão participar do sorteio.
 - Na forma que você for selecionando o nome irá aparecer no campo abaixo.
