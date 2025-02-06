@@ -27,6 +27,8 @@
   
  ## 👥 Autor  
  **Joyce Rodrigues**
- - GitHub: [@seunome](https://github.com/Joyce784)
-   ![Minha foto](![WhatsApp Image 2025-02-05 at 17 55 42](https://github.com/user-attachments/assets/9f785fbd-528d-48c2-a370-2509eb65eee8))
+ - GitHub: (https://github.com/Joyce784)
+ ![foto3x4](https://github.com/user-attachments/assets/6bd4b0da-7f28-488b-baac-8cb92d1428bb)
+
+
 
